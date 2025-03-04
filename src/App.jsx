@@ -1,4 +1,4 @@
-import Bike1 from './assets/bike1.jpg'
+import Bike1 from './assets/Bike1.jpg'
 
 function App() {
 
