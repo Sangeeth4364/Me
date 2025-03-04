@@ -1,9 +1,16 @@
+import Bike1 from './assets/bike1.jpg'
+
 function App() {
 
   return (
-    <div>
-      <h1>React App</h1>
-    </div>
+    <>
+      <div>
+        <div className="h-auto w-full">
+          <img src={Bike1} alt="Bike1" />
+        </div>
+        <h1 className="text-xl">Hello world!</h1>
+      </div>
+    </>
   )
 }
 
